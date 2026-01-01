@@ -60,3 +60,33 @@ body {
   color: #000;
   border-radius: 6px;
 }
+.blessings {
+  margin: 30px 0;
+  padding: 20px;
+  background: #fff9ee;
+  border-left: 4px solid #c9a44c;
+  border-radius: 6px;
+}
+
+.blessings p {
+  margin: 0 0 14px 0;
+  line-height: 1.6;
+  font-size: 0.95rem;
+  text-align: center;
+}
+
+.blessings .telugu {
+  font-size: 1rem;
+}
+
+.blessings .english {
+  font-size: 0.9rem;
+}
+
+.blessings hr {
+  border: none;
+  border-top: 1px solid #d8c9a8;
+  margin: 16px auto;
+  width: 60%;
+}
+
