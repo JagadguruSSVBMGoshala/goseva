@@ -102,4 +102,23 @@ body {
   font-size: 1rem;
 }
 
+.image-block {
+  margin: 24px 0;
+}
+
+.image-block img {
+  width: 100%;
+  border-radius: 6px;
+}
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.image-grid img {
+  width: 100%;
+  border-radius: 6px;
+}
 
